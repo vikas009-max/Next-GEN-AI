@@ -1,5 +1,5 @@
 # Jobs Dashboard / Power BI
-![Dashboard](https://github.com/user-attachments/assets/06830d78-80eb-4a24-8f43-9eca07491643)
+![Image](https://github.com/user-attachments/assets/27988f82-a52d-45e7-a971-cd296b12e197)
 
 [**🌐 View Interactive Dashboard On Power Bi Service**](https://app.powerbi.com/groups/me/reports/6b39c746-35fa-43a8-9c4c-229af63b6566/c09470b9613d98bb9db8?experience=power-bi)
 
@@ -34,6 +34,6 @@ This dashboard created for **Data Analyst, Researchers and who wants authenticit
 
 ### Home: AI Tools for Your Next Report
 
-![Dashboard](https://github.com/user-attachments/assets/06830d78-80eb-4a24-8f43-9eca07491643)
+![Image](https://github.com/user-attachments/assets/27988f82-a52d-45e7-a971-cd296b12e197)
  
 In this dashboard you can find all tools that you need for your next thing to learn and make your projects and be a ahead of others .In this **Compititive** world where ai is taking every step to change world use ai tools to be ralavent in your work.
