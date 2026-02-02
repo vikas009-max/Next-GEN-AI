@@ -1,4 +1,4 @@
-# Jobs Dashboard / Power BI
+# Next-Gen AI Dashboard / Power BI
 ![Image](https://github.com/user-attachments/assets/27988f82-a52d-45e7-a971-cd296b12e197)
 
 [**🌐 View Interactive Dashboard On Power Bi Service**](https://app.powerbi.com/groups/me/reports/6b39c746-35fa-43a8-9c4c-229af63b6566/c09470b9613d98bb9db8?experience=power-bi)
