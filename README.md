@@ -7,28 +7,41 @@ This dashboard created for **Data Analyst, Researchers and who wants authenticit
 
 
 ## Skills Showcased
+-🐍 Python :
 
-- **🐍 Python :**
-    - **Web Scraping:** Extracted Data from webs like **AI** tool name subscription and fields which they performs briantly & how they performes in real world and made that dashboard.
+   🕸 Web Scraping: Extracted Data from webs like AI tool name   subscription and fields which they performs briantly & how they performes in real world and made that dashboard.
 
-    - **Pandas**  From called data created data frame and put that data into **CSV** files to import that data into power bi.
 
-- **📈 Power BI**  
-    - **⚙️ Data Transromation (ETL) with power query:** Cleaned, sharped, and prepared the raw data for analysis by handling blanks,changing data types, and creating new columns.
 
-    - **📏explicit measures:**  Formulated measures to derive key insight and kpi like Songs , Artists , Average Duration and Trendings Songs.
+    🐼 Pandas From called data created dataframe and put that data into CSV files to import that data into power bi.
 
-    - **📊Core Charts:** Utilized bar Charts to compare songs popularity and track trend over time.
 
-    - **🔢KPI Indicators :** Used Cards to display key metricks and tables to provides granular sortable data.
 
-    - **🎨Dashboard Design:** Designed an intutive and visually apealing layout, exploreing both common and uncommon charts types to tell the data story.
+- 📈 Power BI
 
+  ⚙️ Data Transromation (ETL) with power query: Cleaned, sharped, and prepared the raw data for analysis by handling blanks,changing data types, and creating new columns.
+
+
+
+  📏explicit measures: Formulated measures to derive key insight and kpi like Rating ,Top Ai tools, and Ranks of AI in Market.
+
+   📊Core Charts: Utilized bar Charts to compare AI tools and There trend over time.
+
+  🔢KPI Indicators : Used Cards to display key metricks and tables to provides granular sortable data.
+
+  🎨Dashboard Design: Designed an intutive and visually apealing layout, exploreing both common and uncommon charts types to tell the data story.
+
+
+
+ℹ️ About : Made a section of about which can tell the key highlight of the ai tool like what it does and what can you do with that ai tool
+
+
+
+⛳ Field : There is field you can chose from to get ai tool of your need for ai detaction , data analysis & research
     **🖱️Interactive Reporting:**
 
-        -  **Slicer:** Used Slicers for visualize data and select **AI** tool for your work.
-
-        -   **Img** Imgs useed to identify and make easy to use kpi card and help everyone to see and identify card.
+ - **Slicer:** Used Slicers for visualize data and select **AI** tool for your work.
+-  **Img** Imgs useed to identify and make easy to use kpi card and help everyone to see and identify card.
 
 # Dashboard Overview
 
