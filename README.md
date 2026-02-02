@@ -38,7 +38,9 @@ This dashboard created for **Data Analyst, Researchers and who wants authenticit
 
 
 ⛳ Field : There is field you can chose from to get ai tool of your need for ai detaction , data analysis & research
-    **🖱️Interactive Reporting:**
+
+
+ **🖱️Interactive Reporting:**
 
  - **Slicer:** Used Slicers for visualize data and select **AI** tool for your work.
 -  **Img** Imgs useed to identify and make easy to use kpi card and help everyone to see and identify card.
